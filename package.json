@@ -1,0 +1,9 @@
+{
+  "name": "pad",
+  "version": "0.0.0",
+  "description": "Wrapper around pad api",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
