@@ -1,9 +1,9 @@
-pad
+HedgedocApi
 =========
 
 Simple library wrapper around basic hedgedoc/codimd commands
 
-It contains a Pad Class with fhe following methods: 
+It contains a HedgedocApi Class with fhe following methods: 
 
 - getNoteWithId
 - createNewNoteWithContent
@@ -11,7 +11,7 @@ It contains a Pad Class with fhe following methods:
 
 The class is expecting email, password, and url in the following order as parameters
 ```
-const pad = new PAD(email, password, url);
+const ha = new HedgedocApi(email, password, url);
 ```
 
 where email and password are identification params of an account, and url the base url where is running hedgedoc/codimd.
