@@ -1,1 +1,1 @@
-module.exports = require('./lib/pad');
+module.exports = require('./lib/hedgedoc-api');
