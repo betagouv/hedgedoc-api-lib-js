@@ -3,7 +3,7 @@ pad
 
 Simple library wrapper around basic hedgedoc/codimd commands
 
-It contains a Pas Class with fhe following methods: 
+It contains a Pad Class with fhe following methods: 
 
 - getNoteWithId
 - createNewNoteWithContent
